@@ -1,0 +1,10 @@
+#card-header{
+    text-align: left;
+}
+#text-desc{
+    text-align: left;
+}
+#footer-icon{
+    display: flex;
+    justify-content: space-between;
+}
