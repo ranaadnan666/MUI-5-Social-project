@@ -1,14 +1,14 @@
 
 import './App.css';
-// import Home from './Components/Home';
-import CSSGrid from './Components/Table';
+
+import MainContainer from './Components/Table';
 
 function App() {
   return (
     <div className="App">
   
-    {/* <Home/> */}
-    <CSSGrid/>
+
+    <MainContainer/>
     
     </div>
   );
